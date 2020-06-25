@@ -27,8 +27,8 @@ input[type=submit] {padding:5px 15px; background:#FFBF00; border:0 none;
         border-radius: 5px; }
 
 h1 {
-    color: #999999;
-    font-family: Fantasy;
+    color: hsl(288, 95%, 47%);
+    font-family: Comic Sans MS;
     font-size: 16px;
     font-weight: bold;
     margin-top: 0px;
