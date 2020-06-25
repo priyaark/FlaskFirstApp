@@ -3,33 +3,33 @@ body, html {
     font-family: sans-serif;
 }
 
-.content {
-    margin: 0 auto;
-    width: 400px;
-}
-
-table, td, th {
-    border: 1px solid #aaa;
-}
-
-table {
-    border-collapse: collapse;
-    width: 100%;
-}
-
-th {
-    height: 30px;
-}
-
-td {
-    text-align: center;
-    padding: 5px;
-}
-
-.form {
-    margin-top: 20px;
-}
-
 #content {
-    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.material-icons.md-dark { color: rgba(0, 0, 0, 0.54); }
+.material-icons.md-dark.md-inactive { color: rgba(0, 0, 0, 0.26); }
+
+.material-icons.md-light { color: rgba(255, 255, 255, 1); }
+.material-icons.md-light.md-inactive { color: rgba(255, 255, 255, 0.3); }
+
+input[type=text] {padding:5px; border:2px solid #ccc; 
+    -webkit-border-radius: 5px;
+        border-radius: 5px;
+}
+input[type=text]:focus {border-color:#333; }
+    
+input[type=submit] {padding:5px 15px; background:#FFBF00; border:0 none;
+        cursor:pointer;
+        -webkit-border-radius: 5px;
+        border-radius: 5px; }
+
+h1 {
+    color: #999999;
+    font-family: Fantasy;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 1px;
 }
