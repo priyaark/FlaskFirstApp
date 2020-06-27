@@ -27,10 +27,11 @@ input[type=submit] {padding:5px 15px; background:#FFBF00; border:0 none;
         border-radius: 5px; }
 
 h1 {
-    color: hsl(288, 95%, 47%);
-    font-family: Comic Sans MS;
+    color: #999999;
+    font-family: arial, sans-serif;
     font-size: 16px;
     font-weight: bold;
     margin-top: 0px;
     margin-bottom: 1px;
-}
+   }
+            
